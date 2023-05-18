@@ -1,0 +1,24 @@
+.user-info{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.profile-name{
+    font-size:1.2rem;
+    margin:0;
+}
+
+.profile-email{
+    font-size:1.3rem;
+    margin:0;
+    
+}
+
+.profile-email a{
+    color: rgb(202, 137, 131);
+}
+
+
+

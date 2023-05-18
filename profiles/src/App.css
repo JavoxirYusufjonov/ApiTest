@@ -1,0 +1,4 @@
+.profileCards{
+    display: flex;
+    flex-wrap: wrap;
+}
